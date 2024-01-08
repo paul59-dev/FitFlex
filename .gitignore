@@ -13,6 +13,10 @@
 /client/build
 
 # misc
+.env
+.env.local
+.env.production
+.env.test
 /client/.DS_Store
 /client/.env.local
 /client/.env.development.local
