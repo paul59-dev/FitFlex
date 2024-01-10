@@ -1,8 +1,8 @@
-# FitFlex - Real-time Weight Loss Progress Tracking
+# FitFlex - Real-time Weight Loss Progress Tracking 🏋️‍♂️📊
 
 FitFlex is an application dedicated to helping you achieve your weight loss goals by providing real-time tracking of your progress. Whether you're a fitness novice or a seasoned expert, FitFlex will accompany you throughout your fitness journey.
 
-## Key Features
+## Key Features 🌟
 
 - **Real-time Tracking:** Get instant updates on your weight loss progress, keeping you motivated and informed.
 
