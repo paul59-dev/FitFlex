@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import NavBar from './components/NavBar';
 
 function App() {
   const [data, setData] = useState('');
@@ -13,6 +14,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <NavBar />
         <p>{data}</p>
       </header>
     </div>
